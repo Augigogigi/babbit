@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Thomas Reddy <contact@thomasreddy.com>"]
 description = "Reserving the name for a future project."
 keywords = []
-repository = "https://github.com/Augigogigi/phos"
+repository = "https://github.com/Augigogigi/kon"
 license = "MIT OR Apache-2.0"
 readme = "README.md"
 
