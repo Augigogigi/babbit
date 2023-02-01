@@ -1,0 +1,12 @@
+[package]
+name = "kon"
+version = "0.0.0"
+edition = "2021"
+authors = ["Thomas Reddy <contact@thomasreddy.com>"]
+description = "Reserving the name for a future project."
+keywords = []
+repository = "https://github.com/Augigogigi/phos"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+
+[dependencies]
